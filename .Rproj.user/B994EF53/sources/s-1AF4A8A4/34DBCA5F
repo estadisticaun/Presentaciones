@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517609366957.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "34DBCA5F",
+    "lastKnownWriteTime" : 8245937438995738725,
+    "last_content_update" : 1517609366957,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "e6fc225ab3bb4aa497ec012d4d894f53",
+        "name" : "sale",
+        "title" : "sale"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

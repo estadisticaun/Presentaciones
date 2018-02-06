@@ -407,4 +407,310 @@ $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Git[0KH
 ub/Institucional/Presentaciones[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git status -s[0K[?25h[?25l$ git add -s[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Git[0KH
+ub/Institucional/Presentaciones[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hS[0Ke[0K[21G[?25l$ git commit -m "Se c[0K[?25ha[0Kr[0Kg[0Ka[0K[27G[?25l$ git commit -m "Se carga p[0K[?25hr[0Ke[0Ks[0Ke[0Kn[0Kt[0Ka[0Kc[0Ki[0Kó[0Kn[0K[40G[?25l$ git commit -m "Se carga presentación 1[0K[?25h"[0K[?25l
+[0K[?25h[master 2a4c9e1] Se carga presentación 1[0K[?25l
+ 223 files changed, 66512 insertions(+)[0K
+ create mode 100644 .Rproj.user/B994EF53/console06/8E3AE780[0K
+ create mode 100644 .Rproj.user/B994EF53/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-4E2BB88D/4B90BE33[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-4E2BB88D/4B90BE33-contents[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-4E2BB88D/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 Ejemplo1/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
+ create mode 100644 Ejemplo1/Proj4Leaflet-0.7.2/proj4.js[0K
+ create mode 100644 Ejemplo1/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/bootstrap-theme.min.css[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/bootstrap.min.css[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/bootstrap.min.js[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/font-awesome.min.css[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/fontawesome-webfont.eot[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/fontawesome-webfont.svg[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/fontawesome-webfont.ttf[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/fontawesome-webfont.woff[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/ionicons.eot[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/ionicons.svg[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/ionicons.ttf[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/fonts/ionicons.woff[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/images/markers-matte.png[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/images/markers-matte@2x.png[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/images/markers-plain.png[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/images/markers-shadow.png[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/images/markers-shadow@2x.png[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/images/markers-soft.png[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/images/markers-soft@2x.png[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/ionicons.min.css[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/leaflet.awesome-markers.css[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/leaflet.awesome-markers.js[0K
+ create mode 100644 Ejemplo1/bootstrap-3.3.7/leaflet.awesome-markers.min.js[0K
+ create mode 100644 Ejemplo1/htmlwidgets-0.8/htmlwidgets.js[0K
+ create mode 100644 Ejemplo1/index.html[0K
+ create mode 100644 Ejemplo1/jquery-1.12.4/jquery.js[0K
+ create mode 100644 Ejemplo1/jquery-1.12.4/jquery.min.js[0K
+ create mode 100644 Ejemplo1/leaflet-0.7.7/images/1px.png[0K
+ create mode 100644 Ejemplo1/leaflet-0.7.7/images/layers-2x.png[0K
+ create mode 100644 Ejemplo1/leaflet-0.7.7/images/layers.png[0K
+ create mode 100644 Ejemplo1/leaflet-0.7.7/images/marker-icon-2x.png[0K
+ create mode 100644 Ejemplo1/leaflet-0.7.7/images/marker-icon.png[0K
+ create mode 100644 Ejemplo1/leaflet-0.7.7/images/marker-shadow.png[0K
+ create mode 100644 Ejemplo1/leaflet-0.7.7/leaflet-src.js[0K
+ create mode 100644 Ejemplo1/leaflet-0.7.7/leaflet.css[0K
+ create mode 100644 Ejemplo1/leaflet-0.7.7/leaflet.js[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/bootstrap-theme.min.css[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/bootstrap.min.css[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/bootstrap.min.js[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/font-awesome.min.css[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/FontAwesome.otf[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Ke
+ot[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Ks
+vg[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Kt
+tf[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Kw
+off[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
+regular.eot[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
+regular.svg[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
+regular.ttf[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
+regular.woff[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/ionicons.eot[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/ionicons.svg[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/ionicons.ttf[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/fonts/ionicons.woff[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/images/markers-matte.png[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/images/markers-matte@2x.pn[0Kg
+[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/images/markers-plain.png[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/images/markers-shadow.png[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/images/markers-shadow@2x.p[0Kn
+g[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/images/markers-soft.png[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/images/markers-soft@2x.png[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/ionicons.min.css[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.cs[0Ks
+[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.js[0K
+ create mode 100644 Ejemplo1/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.mi[0Kn
+.js[0K
+ create mode 100644 Ejemplo1/leaflet-binding-1.1.0/leaflet.js[0K
+ create mode 100644 Ejemplo1/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
+ create mode 100644 Ejemplo1/leaflet-easybutton-1.3.1/LICENSE[0K
+ create mode 100644 Ejemplo1/leaflet-easybutton-1.3.1/easy-button.css[0K
+ create mode 100644 Ejemplo1/leaflet-easybutton-1.3.1/easy-button.js[0K
+ create mode 100644 Ejemplo1/leaflet-label-0.2.2/images/death.png[0K
+ create mode 100644 Ejemplo1/leaflet-label-0.2.2/leaflet.label-src.js[0K
+ create mode 100644 Ejemplo1/leaflet-label-0.2.2/leaflet.label.css[0K
+ create mode 100644 Ejemplo1/leaflet-label-0.2.2/leaflet.label.js[0K
+ create mode 100644 Ejemplo1/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
+ create mode 100644 Ejemplo1/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
+ create mode 100644 Ejemplo1/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K
+ create mode 100644 Ejemplo1/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
+ create mode 100644 Ejemplo1/leaflet-minimap-3.3.1/Minimap-binding.js[0K
+ create mode 100644 Ejemplo1/leaflet-minimap-3.3.1/images/toggle.png[0K
+ create mode 100644 Ejemplo1/leaflet-minimap-3.3.1/images/toggle.svg[0K
+ create mode 100644 Ejemplo1/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
+ create mode 100644 Ejemplo1/leaflet-providers-1.0.27/README.md[0K
+ create mode 100644 Ejemplo1/leaflet-providers-1.0.27/bower.json[0K
+ create mode 100644 Ejemplo1/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
+ create mode 100644 Ejemplo1/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0K
+ create mode 100644 Ejemplo1/leaflet-providers-1.0.27/leaflet-providers.js[0K
+ create mode 100644 Ejemplo1/leaflet-providers-1.0.27/license.md[0K
+ create mode 100644 Ejemplo1/leaflet-providers-1.0.27/package.json[0K
+ create mode 100644 Ejemplo1/leaflet-providers-1.0.27/providers.json[0K
+ create mode 100644 Ejemplo1/leaflet-providers-plugin-1.1.0/leaflet-providers-plugin[0K.
+js[0K
+ create mode 100644 Ejemplo1/leafletfix-1.0.0/leafletfix.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/CONTRIBUTING.md[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/Gruntfile.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/LICENSE[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/bower.json[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/print/paper.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/print/pdf.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/reveal.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/reveal.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/beige.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/black.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/blood.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/Lato.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/LatoBold.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/LatoBoldItalic.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/LatoItalic.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/Montserrat.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/NewsCycle.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/NewsCycleBold.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/OpenSans.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/OpenSansBold.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/OpenSansBoldItalic.tt[0Kf
+[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/OpenSansItalic.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/Quicksand.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/QuicksandBold.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/UbuntuBold.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/UbuntuBoldItalic.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/UbuntuLight.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/fonts/UbuntuLightItalic.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/league.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/moon.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/night.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/serif.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/simple.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/sky.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/solarized.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/beige.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/black.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/blood.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/league.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/moon.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/night.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/serif.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/simple.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/sky.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/solarized.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/source/white.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/template/mixins.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/template/settings.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/template/theme.scss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/css/theme/white.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/demo.html[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/index.html[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/js/reveal.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/css/zenburn.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/league-gothic/LICENSE[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/league-gothic/league-gothic.[0Kc
+ss[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/league-gothic/league-gothic.[0Ke
+ot[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/league-gothic/league-gothic.[0Kt
+tf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/league-gothic/league-gothic.[0Kw
+off[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/LICENSE[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-italic.eot[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-italic.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-italic.woff[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-regular.eot[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-regular.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-regular.woff[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-semibold.eot[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-semibold.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-semibold.woff[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-semibolditalic.eot[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-semibolditalic.ttf[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro-semibolditalic.woff[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/font/source-sans-pro/source-sans-[0Kp
+ro.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/js/classList.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/js/head.min.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/lib/js/html5shiv.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/package.json[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/chalkboard/chalkboard.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/chalkboard/img/blackboard.png[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/chalkboard/img/boardmarker.png[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/chalkboard/img/chalk.png[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/chalkboard/img/sponge.png[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/chalkboard/img/whiteboard.png[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/highlight/highlight.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/markdown/example.html[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/markdown/example.md[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/markdown/markdown.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/markdown/marked.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/math/math.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/menu/lib/bowser.min.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/menu/lib/jeesh.min.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/menu/menu.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/menu/menu.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/multiplex/client.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/multiplex/index.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/multiplex/master.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/multiplex/package.json[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/notes-server/client.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/notes-server/index.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/notes-server/notes.html[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/notes/notes.html[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/notes/notes.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/print-pdf/print-pdf.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/search/search.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/plugin/zoom-js/zoom.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/qunit-1.12.0.css[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/qunit-1.12.0.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test-markdown-element-attributes[0K.
+html[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test-markdown-element-attributes[0K.
+js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test-markdown-slide-attributes.h[0Kt
+ml[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test-markdown-slide-attributes.j[0Ks
+[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test-markdown.html[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test-markdown.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test-pdf.html[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test-pdf.js[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test.html[0K
+ create mode 100644 Ejemplo1/reveal.js-3.3.0.1/test/test.js[0K
+ create mode 100644 Presentaciones.Rproj[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Git[0KH
+ub/Institucional/Presentaciones[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 250, done.[0K[?25l
+[0K[?25hDelta compression using up to 8 threads.[0K[?25l
+Compressing objects:  40% (94/235)[0K[1G[?25h[?25lCompressing objects:  87% (205/235)[0K[1G[?25h[?25lCompressing objects:  95% (224/235)[0K[1G[?25h[?25lCompressing objects:  99% (233/235)[0K[1G[?25hCompressing objects: 100% (235/235), done.[0K[?25l
+Writing objects:   6% (15/250)[0K[1G[?25h[?25lWriting objects:  10% (25/250)[0K[1G[?25h[?25lWriting objects:  13% (33/250)[0K[1G[?25h[?25lWriting objects:  14% (35/250)[0K[1G[?25h[?25lWriting objects:  14% (35/250), 984.00 KiB | 794.00 KiB/s[0K[1G[?25h[?25lWriting objects:  17% (43/250), 984.00 KiB | 794.00 KiB/s[0K[1G[?25h[?25lWriting objects:  20% (50/250), 984.00 KiB | 794.00 KiB/s[0K[1G[?25h[?25lWriting objects:  20% (51/250), 1.61 MiB | 718.00 KiB/s[0K[1G[?25h[?25lWriting objects:  21% (53/250), 1.61 MiB | 718.00 KiB/s[0K[1G[?25h[?25lWriting objects:  23% (58/250), 1.61 MiB | 718.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (65/250), 1.61 MiB | 718.00 KiB/s[0K[1G[?25h[?25lWriting objects:  28% (70/250), 1.61 MiB | 718.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (83/250), 1.61 MiB | 718.00 KiB/s[0K[1G[?25h[?25lWriting objects:  48% (120/250), 1.61 MiB | 718.00 KiB/s[0K[1G[?25h[?25lWriting objects:  49% (123/250), 1.61 MiB | 718.00 KiB/s[0K[1G[?25h[?25lWriting objects:  50% (125/250), 1.61 MiB | 718.00 KiB/s[0K[1G[?25h[?25lWriting objects:  53% (133/250), 2.34 MiB | 859.00 KiB/s[0K[1G[?25h[?25lWriting objects:  54% (135/250), 2.34 MiB | 859.00 KiB/s[0K[1G[?25h[?25lWriting objects:  65% (163/250), 2.34 MiB | 859.00 KiB/s[0K[1G[?25h[?25lWriting objects:  68% (170/250), 2.34 MiB | 859.00 KiB/s[0K[1G[?25h[?25lWriting objects:  70% (175/250), 2.34 MiB | 859.00 KiB/s[0K[1G[?25h[?25lWriting objects:  71% (178/250), 2.34 MiB | 859.00 KiB/s[0K[1G[?25h[?25lWriting objects:  72% (180/250), 2.34 MiB | 859.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (183/250), 3.25 MiB | 1007.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (185/250), 3.25 MiB | 1007.00 KiB/s[0K[1G[?25h[?25lWriting objects:  79% (198/250), 3.25 MiB | 1007.00 KiB/s[0K[1G[?25h[?25lWriting objects:  80% (200/250), 3.25 MiB | 1007.00 KiB/s[0K[1G[?25h[?25lWriting objects:  81% (203/250), 3.25 MiB | 1007.00 KiB/s[0K[1G[?25h[?25lWriting objects:  94% (235/250), 3.25 MiB | 1007.00 KiB/s[0K[1G[?25h[?25lWriting objects:  99% (248/250), 3.25 MiB | 1007.00 KiB/s[0K[1G[?25hWriting objects: 100% (250/250), 4.22 MiB | 1.12 MiB/s, done.[0K[?25l
+Total 250 (delta 19), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (19/19), done.[0K[?25l
+[0K[?25hTo https://github.com/estadisticaun/Presentaciones.git[0K[?25l
+   71d714a..2a4c9e1  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Git[0KH
+ub/Institucional/Presentaciones[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Repositorios GitHub/Institucional/Presentaciones[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Git[0KH
+ub/Institucional/Presentaciones[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[?25l$ git ad[0K[?25h[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[14G[?25l$ git status -[0K[?25hs[0K[?25l
+[0K[?25h [0;31mM[0m .Rproj.user/B994EF53/console06/8E3AE780[0K[?25l
+ [0;31mM[0m .Rproj.user/B994EF53/console06/INDEX001[0K
+ [0;31mD[0m .Rproj.user/B994EF53/sources/s-4E2BB88D/4B90BE33[0K
+ [0;31mD[0m .Rproj.user/B994EF53/sources/s-4E2BB88D/4B90BE33-contents[0K
+ [0;31mD[0m .Rproj.user/B994EF53/sources/s-4E2BB88D/lock_file[0K
+[0;31m??[0m .Rhistory[0K
+[0;31m??[0m .Rproj.user/B994EF53/explorer-cache/[0K
+[0;31m??[0m .Rproj.user/B994EF53/pcs/[0K
+[0;31m??[0m .Rproj.user/B994EF53/rmd-outputs[0K
+[0;31m??[0m .Rproj.user/B994EF53/saved_source_markers[0K
+[0;31m??[0m .Rproj.user/B994EF53/sources/s-1AF4A8A4/[0K
+[0;31m??[0m MapsMat/[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Git[0KH
+ub/Institucional/Presentaciones[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ f[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
